@@ -1,0 +1,12 @@
+requests
+pandas
+numpy
+matplotlib
+scipy
+xgboost
+scikit-learn
+tensorflow
+tensorboard
+beautifulsoup4
+lxml
+selenium
